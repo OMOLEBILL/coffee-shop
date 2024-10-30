@@ -1,0 +1,13 @@
+p {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.describe {
+    font-size: 14px;
+    font: 1em/2 "Fira Sans", sans-serif;
+}
+
+.header-color{
+    color: #e78c16;
+}
